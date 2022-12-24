@@ -38,4 +38,4 @@ In the United States there are progressive income taxes and regressive Social Se
 ### Acknowledgements
 
 - Investopedia: [What are taxes?](https://www.investopedia.com/terms/t/taxes.asp)
-- ChatGPT: "What are the main forms of taxes and how do they work?""
+- ChatGPT: "What are the main forms of taxes and how do they work?"
