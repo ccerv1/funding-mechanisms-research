@@ -23,17 +23,20 @@ Each mechanism follows this markdown template:
 
 ### Description
 
-text
+Add description here
 
 ### Examples
 
-- text
+- Example 1
+- Example 2
 
 ### Further reading
 
-- text
+- Link 1
+- Link 2
 
 ### Acknowledgements
 
-- text
+- Ack 1
+- Ack 2
 ```
