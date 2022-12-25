@@ -1,0 +1,217 @@
+---
+-
+    Mechanism: Harberger Taxes
+    Type: Experimental
+    Filename: Harberger Taxes
+-
+    Mechanism: Speculation Grants
+    Type: Experimental
+    Filename: Speculation Grants
+-
+    Mechanism: Retroactive Public Goods Funding
+    Type: Experimental
+    Filename: Retro PGF
+-
+    Mechanism: NFTs
+    Type: Experimental
+    Filename: NFTs
+-
+    Mechanism: Augmented Bonding Curves (ABCs)
+    Type: Experimental
+    Filename: ABCs
+-
+    Mechanism: Staking and Slashing
+    Type: Experimental
+    Filename: Staking Slashing
+-
+    Mechanism: Quadratic Funding
+    Type: Experimental
+    Filename: Quadratic Funding
+-
+    Mechanism: Quadratic Voting
+    Type: Experimental
+    Filename: Quadratic Voting
+-
+    Mechanism: Conviction Voting (+ Osmotic Funding)
+    Type: Experimental
+    Filename: Conviction Voting
+-
+    Mechanism: Holographic Consensus
+    Type: Experimental
+    Filename: Holographic Consensus
+-
+    Mechanism: Hypercerts
+    Type: Experimental
+    Filename: Hypercerts
+-
+    Mechanism: Donation Mining
+    Type: Experimental
+    Filename: Donation Mining
+-
+    Mechanism: Aqueducts
+    Type: Experimental
+    Filename: Aqueducts
+-
+    Mechanism: Budget Box
+    Type: Experimental
+    Filename: Budget Box
+-
+    Mechanism: Futurarchy
+    Type: Experimental
+    Filename: Futurarchy
+-
+    Mechanism: Stigmergy
+    Type: Experimental
+    Filename: Stigmergy
+-
+    Mechanism: Praise
+    Type: Experimental
+    Filename: Praise
+-
+    Mechanism: Demurrage
+    Type: Experimental
+    Filename: Demurrage
+-
+    Mechanism: Proposal Inverters
+    Type: Experimental
+    Filename: Proposal Inverters
+-
+    Mechanism: Prop.house
+    Type: Experimental
+    Filename: Prop House
+-
+    Mechanism: Joke Race
+    Type: Experimental
+    Filename: Joke Race
+-
+    Mechanism: Crowdfunding
+    Type: New
+    Filename: Crowdfunding
+-
+    Mechanism: Buy One, Give One
+    Type: New
+    Filename: Buy One Give One
+-
+    Mechanism: Pass-Through Premiums
+    Type: New
+    Filename: Pass-Through Premiums
+-
+    Mechanism: Microfinance
+    Type: New
+    Filename: Microfinance
+-
+    Mechanism: Peer to Peer Lending
+    Type: New
+    Filename: P2P Lending
+-
+    Mechanism: Social Impact Bonds
+    Type: New
+    Filename: SIBs
+-
+    Mechanism: Grand Challenges
+    Type: New
+    Filename: Grand Challenges
+-
+    Mechanism: Hackathons
+    Type: New
+    Filename: Hackathons
+-
+    Mechanism: Fast Grants
+    Type: New
+    Filename: Fast Grants
+-
+    Mechanism: Milestone Payments
+    Type: New
+    Filename: Milestone Payments
+-
+    Mechanism: Advance Market Commitments
+    Type: New
+    Filename: AMCs
+-
+    Mechanism: (Dominance) Assurance Contracts
+    Type: New
+    Filename: DACs
+-
+    Mechanism: Proof of Work
+    Type: New
+    Filename: Proof of Work
+-
+    Mechanism: Ranking Choice Voting
+    Type: New
+    Filename: Ranking Choice Voting
+-
+    Mechanism: Effective Altruism
+    Type: New
+    Filename: EA
+-
+    Mechanism: Money Creation
+    Type: Legacy
+    Filename: Money Creation
+-
+    Mechanism: Taxes
+    Type: Legacy
+    Filename: Taxes
+-
+    Mechanism: Voting
+    Type: Legacy
+    Filename: Voting
+-
+    Mechanism: Fines
+    Type: Legacy
+    Filename: Fines
+-
+    Mechanism: Tolls and Entrance Fees
+    Type: Legacy
+    Filename: Tolls
+-
+    Mechanism: Tithes
+    Type: Legacy
+    Filename: Tithes
+-
+    Mechanism: Direct Donations
+    Type: Legacy
+    Filename: Donations
+-
+    Mechanism: Tipping
+    Type: Legacy
+    Filename: Tipping
+-
+    Mechanism: Gifts
+    Type: Legacy
+    Filename: Gifts
+-
+    Mechanism: Fundraisers
+    Type: Legacy
+    Filename: Fundraisers
+-
+    Mechanism: Grants
+    Type: Legacy
+    Filename: Grants
+-
+    Mechanism: Membership Dues
+    Type: Legacy
+    Filename: Dues
+-
+    Mechanism: Check-off Programs
+    Type: Legacy
+    Filename: Checkoffs
+-
+    Mechanism: Loan Guarantees
+    Type: Legacy
+    Filename: Loan Guarantees
+-
+    Mechanism: Soft Loans
+    Type: Legacy
+    Filename: Soft Loans
+-
+    Mechanism: Municipal Bonds
+    Type: Legacy
+    Filename: Municipal Bonds
+-
+    Mechanism: Endowments
+    Type: Legacy
+    Filename: Endowments
+-
+    Mechanism: Prizes
+    Type: Legacy
+    Filename: Prizes
