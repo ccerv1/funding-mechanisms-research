@@ -25,4 +25,4 @@ Absolutely. They were given at DEF CON, there's a project that was given away ja
 
 ### Acknowledgements
 
-- Griff Green & Kevin Owocki:[Greenpill Episode on coordination mechanisms](https://greenpill.substack.com/p/65-coordination-mechanisms-with-griff)
+- Griff Green & Kevin Owocki: [Greenpill Episode on coordination mechanisms](https://greenpill.substack.com/p/65-coordination-mechanisms-with-griff)

@@ -29,4 +29,4 @@ And it makes it easier on the hardest dimension, which is distribution, you know
 
 ### Acknowledgements
 
-- Griff Green & Kevin Owocki:[Greenpill Episode on coordination mechanisms](https://greenpill.substack.com/p/65-coordination-mechanisms-with-griff)
+- Griff Green & Kevin Owocki: [Greenpill Episode on coordination mechanisms](https://greenpill.substack.com/p/65-coordination-mechanisms-with-griff)
