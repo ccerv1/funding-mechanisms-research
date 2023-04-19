@@ -15,7 +15,7 @@ DIR = "../mechanisms/"
 MECHANISM_MAP = {
     "new": "AMCs.md",
     "legacy": "Municipal Bonds.md",
-    "experimental": "ABCs.md"
+    "experimental": "Holographic Consensus.md"
 }
 
 HEADERS = ["Description", "Examples", "Further reading", "Acknowledgements"]
