@@ -8,7 +8,6 @@ Charitable donations are gifts of money or other assets given by individuals or 
 
 There are many motivations for people to give charitable donations, including a desire to make a positive impact on the world, a sense of obligation to help those in need, and a feeling of gratitude for the blessings in their own lives. People may also give donations for personal or emotional reasons, such as a desire to honor the memory of a loved one or to support a cause that is important to them.
 
-
 ### Examples
 
 - American Red Cross

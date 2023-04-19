@@ -20,4 +20,4 @@ Advance Market Commitments (AMCs) are innovative financing mechanisms designed t
 
 ### Acknowledgements
 
-Conversation with ChatGPT (GPT-4) using the template provided for "Municipal Bonds".
+This was created in conversation with ChatGPT (GPT-4).
