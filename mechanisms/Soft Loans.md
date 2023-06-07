@@ -13,8 +13,8 @@ A soft loan, also known as concessional lending, is a loan with terms significan
 
 ### Further reading
 
-- "Soft Loans: An Introduction" (https://www.investopedia.com/terms/s/soft_loan.asp) - This article from Investopedia provides a comprehensive overview of soft loans, including their purpose, how they work, and their advantages and disadvantages.
-- "The Role of Soft Loans in Economic Development" (https://www.sciencedirect.com/science/article/pii/S0261560615001132) - This research article from ScienceDirect discusses the role and impact of soft loans in promoting economic development in poorer countries.
+- "Soft Loans: An Introduction" (https://www.investopedia.com/terms/s/softloan.asp) - This article from Investopedia provides a comprehensive overview of soft loans, including their purpose, how they work, and their advantages and disadvantages.
+- "Bengal gets 2,000-cr soft loan from Asian Development Bank" (https://web.archive.org/web/20130505041026/http://articles.timesofindia.indiatimes.com/2013-03-16/kolkata/37766565_1_soft-loan-amit-mitra-revenue-collection) - This article discusses how the government of Bengal secured a Rs 2,000 crore soft loan from the Asian Development Bank (ADB), following a series of government reforms, with the funds earmarked for health, education, and infrastructure development, and featuring an interest-free period of three years.
 
 ### Acknowledgements
 
