@@ -31,6 +31,7 @@ def generate_markdown(conversation_history, topic, tag, additional_text=None):
         conversation_history += "\n"
 
     # Generate content using the ChatGPT model
+    # TODO: review these settings
     try:
         response = openai.Completion.create(
             engine="text-davinci-002",
@@ -137,7 +138,7 @@ def conversation(args):
         else:
             print("The generated markdown does not conform to the template. Starting conversation again...")
 
-
+# TODO: automate this workflow from CLI
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description='Generate markdown using OpenAI GPT-3.')
     parser.add_argument('topic', type=str, help='the topic for the generated markdown')
